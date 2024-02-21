@@ -1,3 +1,8 @@
+These Project is based on Python, HTML, CSS, MYSQL Languages. 
+In Quiz Management is a Web Application.
+Quiz management system application provides facility to attempt quiz anywhere and anythime.
+It saves time since user does need to wait for results.
+
 # Online Quiz
 ![developer](https://img.shields.io/badge/Developed%20By%20%3A-Sumit%20Kumar-red)
 ---
